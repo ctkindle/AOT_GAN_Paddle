@@ -596,17 +596,17 @@ for pic, mask in zip(pics, masks):
 
 
 
-![png](images/output_12_3.png)
+![png](https://ai-studio-static-online.cdn.bcebos.com/5e1ba565f24c43b88627cba846ce02954e0c80b465584fd983b1a32353f2c1ca)
 
 
 
-![png](images/output_12_4.png)
+![png](https://ai-studio-static-online.cdn.bcebos.com/44a7d216073b44f7bb684379b0b06d3e2766de8dde064f1aa21b2e44768c655b)
 
 
 
-![png](images/output_12_5.png)
+![png](https://ai-studio-static-online.cdn.bcebos.com/13d2f553e98b43dab094cd2733493b066ac2e11807694f969159476e2fb6c1f5)
 
 
 
-![png](images/output_12_6.png)
+![png](https://ai-studio-static-online.cdn.bcebos.com/cffe7795707b4183ba4cc70a9207278cf4357756f37e47fe87b38149e3329dec)
 
