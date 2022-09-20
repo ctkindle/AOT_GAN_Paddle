@@ -588,25 +588,25 @@ for pic, mask in zip(pics, masks):
 
 
 
-![png](https://github.com/ctkindle/AOT_GAN_Paddle/blob/main/images/output_12_1.png)
+![png](https://ai-studio-static-online.cdn.bcebos.com/5f8a0bcb13394ed083b1d0ba54bd0aa208cd0e32cfef4d77926eeda3d5abe3ab)
 
 
 
-![png](https://github.com/ctkindle/AOT_GAN_Paddle/blob/main/images/output_12_2.png)
+![png](images/output_12_2.png)
 
 
 
-![png](https://github.com/ctkindle/AOT_GAN_Paddle/blob/main/images/output_12_3.png)
+![png](images/output_12_3.png)
 
 
 
-![png](https://github.com/ctkindle/AOT_GAN_Paddle/blob/main/images/output_12_4.png)
+![png](images/output_12_4.png)
 
 
 
-![png](https://github.com/ctkindle/AOT_GAN_Paddle/blob/main/images/output_12_5.png)
+![png](images/output_12_5.png)
 
 
 
-![png](https://github.com/ctkindle/AOT_GAN_Paddle/blob/main/images/output_12_6.png)
+![png](images/output_12_6.png)
 
