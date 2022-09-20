@@ -592,7 +592,7 @@ for pic, mask in zip(pics, masks):
 
 
 
-![png](images/output_12_2.png)
+![png](https://ai-studio-static-online.cdn.bcebos.com/fd11c8c497484b3082c7798b9f7467f9e16384bb4153471ea89d175ebf541a93)
 
 
 
